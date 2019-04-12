@@ -9,14 +9,14 @@ Pequeña simulación de un juego de bingo.
 * Relaciona las letras con un rango de numeros
 * Se han utilizado codigos para centrar y dar color a la consola
 * Reconoce los juegos ganados de:
-** Por fils
-** Por columna
-** Por diagonal
-** Por esquinas
-** Por carton lleno
+  * Por filas
+  * Por columna 
+  * Por diagonales
+  * Por esquinas
+  * Por carton lleno
 
 ## Este proyecto corre sobre la terminar del Lazarus Project
-> PD: Este codigo no ha sido desarrollado ampliamente aunque es posible que sea actualizado en el futuro
+> PD: Este codigo no ha sido desarrollado ampliamente aunque es posible que sea actualizado en el futuro. 
 > Este codigo se realizo como practica del lenguaje pascal, es totalmente abierto si es de interes para alguien
  
 
